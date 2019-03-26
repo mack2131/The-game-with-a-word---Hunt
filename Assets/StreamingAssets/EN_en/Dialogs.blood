@@ -1,0 +1,14 @@
+﻿[
+	{
+		"key": "SCENE_TEXT_NPC_MIRROR",
+		"dialog": "Wow! I am a cat! But how i am? Where am i? what happened!? What a hell is happened.ohhh...my head...i have a strong headache...it is so strange...i remember nothing. My body will be broken from the ache inside...God! Maybe i have been drinking too much before? 
+Hello!!! IS someone there?
+...........
+i can hear something outside this building. something mysterious...something dark. oh! there is a weapon. i need it. maybe i have to go and try to find someone?"
+	},
+
+	{
+		"key": "SCENE_TEXT_NPC_TEST_ARCHER",
+		"dialog": "Hello, dear Catzellot! Hope you are great! I need you to destroy slimes cauldron!"
+	}
+]

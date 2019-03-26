@@ -1,0 +1,16 @@
+﻿[
+	{
+		"key": "BUTTON_MAIN_MENU_PLAY",
+		"label": "Play"
+	},	
+
+	{
+		"key": "BUTTON_MAIN_MENU_EXIT",
+		"label": "Exit"
+	},
+
+	{
+		"key": "CANVAS_TEXT_SPEEC_BUBBLES_PRESS_ESC",
+		"label": "Press ESC to continue..."
+	}
+]

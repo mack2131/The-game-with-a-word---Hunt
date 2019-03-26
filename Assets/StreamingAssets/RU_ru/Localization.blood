@@ -1,0 +1,16 @@
+﻿[
+	{
+		"key": "BUTTON_MAIN_MENU_PLAY",
+		"label": "Играть"
+	},	
+
+	{
+		"key": "BUTTON_MAIN_MENU_EXIT",
+		"label": "Выход"
+	},
+
+	{
+		"key": "CANVAS_TEXT_SPEEC_BUBBLES_PRESS_ESC",
+		"label": "Для продолжения нажмите ESC..."
+	}
+]
